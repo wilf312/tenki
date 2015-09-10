@@ -1,0 +1,13 @@
+{
+    "name": "okada/tenki",
+    "authors": [
+        {
+            "name": "wilf312",
+            "email": "wilf33312@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*",
+        "fabpot/goutte": "*"
+    }
+}
