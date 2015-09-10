@@ -2,7 +2,7 @@
 
 
 // Composer読み込み
-require_once './vendor/autoload.php';
+require_once '../vendor/autoload.php';
 
 // URL取得
 $siteUrl = 'http://weather.yahoo.co.jp/weather/jp/expo/';
